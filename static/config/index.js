@@ -5,7 +5,7 @@
   window.SITE_CONFIG = {};
 
   // api接口请求地址
-  window.SITE_CONFIG['baseUrl'] = 'http://localhost:88/api';
+  // window.SITE_CONFIG['baseUrl'] = 'http://localhost:88/api';
 
   //k8s线上环境
   window.SITE_CONFIG['baseUrl'] = 'http://192.168.196.138:30007/api';
